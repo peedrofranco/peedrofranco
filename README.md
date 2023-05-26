@@ -10,7 +10,7 @@
 ### Opa, tudo bem? 🤟🏼
 
 - 🔞 Tenho 27 anos, gaúcho de Passo Fundo
-- 💻 Atualmente estou trabalhando na: NoVerde
+- 💻 Atualmente estou trabalhando na: -
 - 📚 Estudando Python, Lambda AWS
 - <img align="center" alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Procurando colaborar em projetos Python para aprimorar meus conhecimentos
 - 🔎 Procuro ajuda com Lambda AWS
